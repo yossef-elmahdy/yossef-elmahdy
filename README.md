@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and anything related, business intellignece, data anlysis, data science, project management, product management, physcology, ... etc 
 - 🌱 I’m currently learning business intellignece and data analysis 
 - 💞️ I’m looking to collaborate on database and data analysis projects 
-- 📫 You can reach me via <a href="https://www.linkedin.com/in/youssef-elmahdy/m">LinkedIn</a>
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/youssef-elmahdy/)
 
 Hi there 
 
