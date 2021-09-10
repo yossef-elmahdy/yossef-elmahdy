@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on database and data analysis projects 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/youssef-elmahdy/)
 
-Hi there 
+Hi there ![https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif]
 
 <!---
 yossef-elmahdy/yossef-elmahdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
