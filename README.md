@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Youssef El-Mahdy a student in computer engineering major 
-- 👀 I’m interested in technology and anything related, business intellignece, data anlysis, data science, project management, product management, physcology, ... etc 
-- 🌱 I’m currently learning business intellignece and data analysis 
+- 👋 Hi, I’m Youssef El-Mahdy a computer engineering graduate as a 2nd in class. 
+- 👀 I’m interested in technology and anything related, data engineering and product management.  
+- 🌱 I’m currently learning data engineering and data warehouse desing and modeling.  
 - 💞️ I’m looking to collaborate on data engineering, BI or data science projects 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/youssef-elmahdy/)
 
